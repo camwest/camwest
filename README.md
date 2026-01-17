@@ -10,14 +10,8 @@ Before this, I co-founded [Delphia](https://delphia.com), an AI-driven investing
 
 ## Recent Side Projects
 
-### [video-to-transcript](https://github.com/camwest/video-to-transcript)
-Turns videos into clean transcripts so I can read podcasts on my Kindle. Because sometimes I'd rather read than watch.
-
-### [ai-email-checker](https://github.com/camwest/ai-email-checker)
-Uses Claude Code SDK to help me triage emails across work and personal accounts. AI that actually saves me time every day.
-
-### [up](https://github.com/camwest/up)
-Find your friends at concerts by turning your phone into a unique light signal. Zero friction, no accounts, just hold your phone up and share the link.
+### [isq](https://github.com/camwest/isq)
+I want to make something as good as linear but that is free and open source.
 
 ## Things I've Built
 
